@@ -17,7 +17,7 @@ header h1{
 
 nav {
     background-color: #f3f3f3;
-    font: bold;
+    font-weight: bold;
 }
 
 h2 {
@@ -26,17 +26,17 @@ h2 {
 }
 dt {
     color:#003058;
-    font:bold;
+    font-weight:bold;
 }
 
 .ut { color:#BA1C21;
-    font:bold;
+    font-weight:bold;
 }
 footer {
     font-size-adjust: .70rem;
     color:#003058;
     text-align:center;
-    font:bold;
+    font-weight:bold;
 }
 #wrapper {
     width: 80%;
