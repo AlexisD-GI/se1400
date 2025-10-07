@@ -24,3 +24,22 @@ h2 {
     color:#424242;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+dt {
+    color:#003058;
+    font:bold;
+}
+.ut {
+    color:#BA1C21;
+    font:bold
+}
+footer {
+    font-size-adjust: .70rem;
+    color:#003058;
+    text-align:center;
+    font:bold;
+}
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
