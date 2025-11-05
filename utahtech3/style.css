@@ -43,14 +43,4 @@ footer {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    background-color: #FFFFFF;
-}
-#homehero {
-    background-image: url(/utahtech3/homehero.jpg);
-}
-#studenthero {
-    background-image: url(/utahtech3/studenthero.jpg);
-}
-#facultyhero {
-    background-image: url(/utahtech3/facultyhero.jpg);
 }
