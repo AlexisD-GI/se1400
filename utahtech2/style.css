@@ -46,11 +46,13 @@ footer {
     background-color: #FFFFFF;
 }
 #homehero {
-    background-image: url(/utahtech3/homehero.jpg);
+    background-image: url(utahtech3/homehero.jpg);
+    height: 300px
+    
 }
 #studenthero {
-    background-image: url(/utahtech3/studenthero.jpg);
+    background-image: url(utahtech3/studenthero.jpg);
 }
 #facultyhero {
-    background-image: url(/utahtech3/facultyhero.jpg);
+    background-image: url(utahtech3/facultyhero.jpg);
 }
