@@ -66,18 +66,21 @@ footer {
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 #studenthero {
     background-image: url("studenthero.jpg");
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 #facultyhero {
     background-image: url("facultyhero.jpg");
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 h3 {
     color:#003058;
