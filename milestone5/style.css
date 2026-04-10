@@ -251,35 +251,147 @@
   height: 525px;
   width: 902px;
 }
-
-#thrrow{
-   grid-template-columns: 100% 1 1;
-  grid-template-rows: 100% 1 1 1;
-}
 #oshape{
-  height:1% ;
-  width: 1%;
+
+  height: 209px;
+  width: 229px;
+  font-size: 10px;
+ 
 }
 #tshape{
-  height:1% ;
-  width: 1%;
+
+  height: 209px;
+  width: 229px;
 
 
 }
 #thrshape{
-height:1% ;
-  width: 1%;
 
+  height: 209px;
+  width: 195px;
+ 
 }
 #fshape{
-height:1% ;
-  width: 1%;
+   
+  height: 209px;
+  width: 229px;
+ 
 
 }
 #fishape{
-height:55% ;
-  width: 40%;
+    border: 0px solid rgba(195, 189, 114, 1);
+  height: 263px;
+  width: 242px;
+ background-color: rgba(0, 169, 56, .00);
  
+}
+#thrrow{
+   grid-template-columns: 215px 53px 215px 50px 185px;
+  grid-template-rows: 245px 234px 243px 150px 108px;
+}
+#Tr{
+
+  font-size: 13px;
+}
+#De{
+
+  font-size: 13px;
+}
+#Sp{
+
+  font-size: 12px;
+}
+#Br{
+
+  font-size: 13px;
+}
+#Fo{
+
+  font-size: 14px;
+
+}
+
+}
+
+@media (max-width: 768px) {
+    #wrapper{
+    grid-template-columns: 10% 100% 10%;
+  }
+  #orow{
+  
+    grid-template-columns: 15px 88px 68px 87px 135px 144px 147px 247px;
+
+  }
+  #tcolumn{
+  height: 525px;
+  width: 820px;
+}
+#oshape{
+
+  height: 209px;
+  width: 189px;
+  font-size: 10px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+ 
+}
+#tshape{
+
+  height: 209px;
+  width: 189px;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+#thrshape{
+
+  height: 209px;
+  width: 169px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#fshape{
+   
+  height: 209px;
+  width: 189px;
+ background-size: contain;
+  background-repeat: no-repeat;
+
+}
+#fishape{
+
+  height: 263px;
+  width:100%;
+ background-size: contain;
+  background-repeat: no-repeat;
+  
+ 
+}
+#thrrow{
+   grid-template-columns: 20% 13% 29% 50px 185px;
+  grid-template-rows: 245px 234px 243px 150px 108px;
+}
+#Tr{
+
+  font-size: 13px;
+}
+#De{
+
+  font-size: 13px;
+}
+#Sp{
+
+  font-size: 12px;
+}
+#Br{
+
+  font-size: 13px;
+}
+#Fo{
+
+  font-size: 14px;
+
 }
 
 
