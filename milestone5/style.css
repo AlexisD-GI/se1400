@@ -28,7 +28,7 @@
   width: 1178px;
 }
 #thrcolumn{
-    border: 1px solid rgba(0, 0, 0, 0.);
+    border: 1px solid rgba(0, 0, 0, 0);
   padding: 10px;
   font-size: 30px;
   text-align: center;
@@ -80,7 +80,7 @@
   text-align: center;
   grid-row: 5/6;
   grid-column: 1/4;
-  background-color: rgba(13, 96, 30, 100);
+  background-color: rgba(13, 96, 30, 1.0);
 }
 
 #oshape{
@@ -369,8 +369,8 @@
  
 }
 #thrrow{
-   grid-template-columns: 20% 13% 29% 50px 185px;
-  grid-template-rows: 245px 234px 243px 150px 108px;
+   grid-template-columns: 19% 13% 25% 50px 185px;
+  grid-template-rows: 235px 234px 243px 150px 108px;
 }
 #Tr{
 
