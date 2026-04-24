@@ -149,7 +149,29 @@ nav a:hover {
     grid-row: 2/3;
     grid-column: 1/9;
 }
+form{
+    display:grid;
+    grid-template-rows: auto;
+    grid-template-columns: 200px 1fr;
+    gap: 0.75rem;
+    width: 100%;
+    font-size: 1rem;
+    padding: 10px;
+    color: #666666;
+    background-color: #fafafa;
+    border: none;    
+    padding: 10px;
+    text-align: right;
+}
+form:focus {
+    outline: none;
+    background-color: #f0f0f0;
 
+}
+#mySubmit {
+    width: 10rem;
+    columns: 2/3;
+}
 @media (max-width: 1100px) {
     #wrapper{
         grid-template-columns:minmax(0px, 1fr) repeat(6, minmax(0, 150px)) minmax(0px, 1fr); ;
