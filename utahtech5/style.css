@@ -154,7 +154,7 @@ nav a:hover {
      position: static;
     }
     nav ul{
-        flex-flow: column nowrap;
+        flex-wrap: nowrap;
     }
     #homehero{
         grid-row: 2/3;
